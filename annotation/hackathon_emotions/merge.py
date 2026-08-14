@@ -23,6 +23,7 @@ FIABILITE = ["qwen", "mistral", "gemma"]   # ← mets-les dans TON ordre de conf
 ALIAS = {
     "curiosite":   "curiosity",
     "curiosity":   "curiosity",
+    "curiosité":   "curiosity",
     "ennui":       "boredom",
     "boredom":     "boredom",
     "neutre":      "neutral",
