@@ -1,0 +1,7444 @@
+{
+  "1": {
+    "1": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "2": {
+    "1": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "2": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    }
+  },
+  "3": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    }
+  },
+  "4": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    }
+  },
+  "5": {
+    "1": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    }
+  },
+  "6": {
+    "1": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "2": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "5": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "7": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "8": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    }
+  },
+  "7": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    }
+  },
+  "8": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "5": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "7": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "8": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "9": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "3": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "5": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "7": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "9": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "10": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "11": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "12": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "13": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "14": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "16": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "19": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "20": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "21": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "22": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "23": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "24": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "25": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "26": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "27": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "28": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "10": {
+    "1": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    }
+  },
+  "11": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "4": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "5": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "7": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "8": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "9": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "11": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "12": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "14": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "15": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "17": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "18": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "19": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "20": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "21": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "22": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "24": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "25": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "26": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "27": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "28": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "29": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "30": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "31": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "32": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "33": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "34": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "35": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "36": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "37": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    }
+  },
+  "12": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "7": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "8": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "10": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "11": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "12": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "13": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "14": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "17": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "18": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "19": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "20": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "21": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "22": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "23": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "24": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "25": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    }
+  },
+  "13": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "4": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "5": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "6": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "7": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "8": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "9": {
+      "broad": "verification",
+      "specific": "verify_output"
+    }
+  },
+  "14": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "5": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "6": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "7": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "9": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "10": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "11": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "12": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "13": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "14": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "15": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "16": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    }
+  },
+  "15": {
+    "1": {
+      "broad": "off_topic",
+      "specific": "greeting"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "7": {
+      "broad": "verification",
+      "specific": "verify_other"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "10": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "11": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "12": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "14": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "17": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "19": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "20": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "21": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "22": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "23": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "24": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "25": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "26": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "27": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "28": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "29": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "30": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "31": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "32": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "33": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "34": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "35": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "36": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "37": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "38": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "39": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "40": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "41": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "42": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "43": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "44": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "45": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "46": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "47": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "48": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "49": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "50": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "51": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "52": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "53": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "54": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "55": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "56": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "57": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "58": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "59": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    }
+  },
+  "16": {
+    "1": {
+      "broad": "writing",
+      "specific": "write_english"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "5": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "7": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "8": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "9": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "10": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "11": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "12": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "13": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "14": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "15": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "16": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "18": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "19": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "20": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "21": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "22": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "23": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "24": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    }
+  },
+  "18": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "5": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "6": {
+      "broad": "writing",
+      "specific": "write_english"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "9": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "11": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "12": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "14": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "19": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "20": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "21": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "22": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "24": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "25": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "26": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "27": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "28": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "29": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "30": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "31": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "32": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "33": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "34": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "35": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "36": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "37": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "38": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "39": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "40": {
+      "broad": "conceptual_questions",
+      "specific": "mathematics"
+    },
+    "41": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "42": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    }
+  },
+  "20": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "7": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "8": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "11": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "12": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "14": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "16": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "17": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "18": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "19": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "20": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "21": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "22": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "24": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "25": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    }
+  },
+  "22": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "7": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "9": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "10": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "11": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "12": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "13": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "14": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "16": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "17": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "20": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "21": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "22": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "24": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "25": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "26": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "27": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "28": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "29": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "30": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "31": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "32": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "33": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "34": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "35": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "36": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "37": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "38": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "39": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "40": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    }
+  },
+  "23": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "3": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "4": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "5": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "6": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "7": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "9": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "10": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "11": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "12": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "14": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "16": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "18": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "19": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "20": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "21": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "22": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "23": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "24": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "25": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "26": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "27": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    }
+  },
+  "24": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "4": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "5": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "7": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "8": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "10": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "11": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "12": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "13": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "14": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "17": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "20": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "21": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "22": {
+      "broad": "provide_context",
+      "specific": "code"
+    }
+  },
+  "26": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "5": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "6": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "9": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "10": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "11": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "12": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "13": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "14": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "15": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "16": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "17": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "18": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "19": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "20": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "21": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "22": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "24": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "25": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "26": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "27": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "27": {
+    "1": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "5": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "6": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "7": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "9": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "10": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "11": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    }
+  },
+  "28": {
+    "1": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "6": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "7": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "8": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "10": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "11": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "12": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "29": {
+    "1": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "31": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "3": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "4": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "8": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "9": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "10": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "11": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "12": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "13": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "14": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "15": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "16": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "17": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "18": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "19": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "20": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "21": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "22": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "23": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "24": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "25": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "26": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "27": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "28": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "29": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "30": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "31": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "32": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "33": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "34": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "35": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "36": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "37": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "38": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "39": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "40": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "41": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "42": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "43": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "44": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "45": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "46": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "47": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "48": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "49": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "50": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "52": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "53": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "54": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "55": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "56": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "57": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "58": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    }
+  },
+  "32": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "5": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "7": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "8": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "9": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "11": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "12": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "14": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "15": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "17": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "18": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    }
+  },
+  "33": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "3": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "4": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "7": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "10": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "11": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "12": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    }
+  },
+  "34": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "3": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "4": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "5": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "6": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "7": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "9": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "10": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "11": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "12": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "14": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "15": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "16": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "18": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "19": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "20": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "21": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "22": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "23": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "24": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "25": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "26": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "27": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    }
+  },
+  "35": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "2": {
+      "broad": "off_topic",
+      "specific": "gratitude"
+    },
+    "3": {
+      "broad": "off_topic",
+      "specific": "gratitude"
+    },
+    "4": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "5": {
+      "broad": "off_topic",
+      "specific": "gratitude"
+    },
+    "6": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "7": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "9": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "11": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "12": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "14": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "15": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "16": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "17": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "20": {
+      "broad": "off_topic",
+      "specific": "greeting"
+    },
+    "21": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "22": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    }
+  },
+  "37": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "5": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "6": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "7": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "8": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "9": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "11": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "12": {
+      "broad": "provide_context",
+      "specific": "code"
+    }
+  },
+  "39": {
+    "1": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "3": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "4": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "7": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "8": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "9": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "10": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "11": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "12": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "13": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "14": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "15": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "16": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "17": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "18": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "20": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "21": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "22": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "23": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "24": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "25": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "26": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "27": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "28": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "29": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "30": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "31": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "40": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "4": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "5": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "7": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "9": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "11": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    }
+  },
+  "41": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "2": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "3": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "8": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "10": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "11": {
+      "broad": "editing",
+      "specific": "edit_code"
+    }
+  },
+  "42": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "4": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "6": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "7": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "8": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "10": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "11": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "12": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "14": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "15": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "16": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "17": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "18": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "20": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "21": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "22": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "23": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "24": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "25": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "26": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "27": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "28": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "29": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "30": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "31": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "32": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "33": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "34": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "35": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "36": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "37": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "38": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "39": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "40": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "41": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "42": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "43": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "44": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "45": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "46": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "47": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "48": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "49": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "50": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "51": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "52": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "53": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "54": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "55": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "56": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "57": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "58": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "59": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "60": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "61": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "62": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "63": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "64": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "65": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "66": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "67": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "68": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "69": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "70": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "71": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "72": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "73": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "74": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "75": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "76": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "43": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "5": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "6": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "44": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "2": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "5": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "7": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "8": {
+      "broad": "editing",
+      "specific": "edit_code"
+    }
+  },
+  "47": {
+    "1": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    }
+  },
+  "48": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "2": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "5": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "6": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "7": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "49": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    }
+  },
+  "50": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "5": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "6": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "8": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "9": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "10": {
+      "broad": "editing",
+      "specific": "edit_code"
+    }
+  },
+  "51": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "5": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "7": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "9": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "10": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "11": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "12": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "14": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "17": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "18": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "19": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "20": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "21": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "22": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "23": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "24": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "25": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "26": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "27": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "28": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "29": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "30": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "31": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "32": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "33": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "34": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "35": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "36": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "37": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "38": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "39": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "40": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "41": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "42": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "43": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "52": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "4": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "5": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "6": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "7": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "8": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "9": {
+      "broad": "verification",
+      "specific": "verify_output"
+    }
+  },
+  "53": {
+    "1": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "54": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "4": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "5": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "6": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "7": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "9": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "10": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "11": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "12": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "14": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "15": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "17": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "20": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "21": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "22": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "24": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "25": {
+      "broad": "verification",
+      "specific": "verify_output"
+    }
+  },
+  "55": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "4": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "5": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "7": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "8": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "9": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "10": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "11": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "12": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "13": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "14": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "15": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "16": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "17": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    }
+  },
+  "56": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "6": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "7": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "9": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "10": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "11": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "12": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "14": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "15": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "16": {
+      "broad": "editing",
+      "specific": "edit_code"
+    }
+  },
+  "57": {
+    "1": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "7": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "11": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "12": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "13": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "14": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "20": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "21": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "22": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "24": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "25": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "26": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "27": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "28": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "29": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "30": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "31": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "32": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "33": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "34": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "35": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "36": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "37": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "38": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "39": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "40": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "41": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "42": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "43": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "44": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "45": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "46": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "47": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "48": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "49": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "50": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "51": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "52": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "53": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "54": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "55": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "56": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "57": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "58": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "59": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "60": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "61": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "62": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "63": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "64": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "65": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    }
+  },
+  "58": {
+    "1": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "2": {
+      "broad": "editing",
+      "specific": "edit_code"
+    }
+  },
+  "59": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "8": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "9": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "10": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "11": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "12": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "14": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "16": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "17": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "18": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "19": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "20": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "21": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "22": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "24": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "25": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "26": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "27": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "28": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "29": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "61": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "7": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "10": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "11": {
+      "broad": "verification",
+      "specific": "verify_output"
+    }
+  },
+  "62": {
+    "1": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "5": {
+      "broad": "editing",
+      "specific": "edit_code"
+    }
+  },
+  "63": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "4": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "7": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "9": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "11": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "12": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "13": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "14": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "15": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "16": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "17": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "18": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "20": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "21": {
+      "broad": "provide_context",
+      "specific": "code"
+    }
+  },
+  "64": {
+    "1": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "6": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "9": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "11": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "12": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "13": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "14": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "15": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "16": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "17": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "18": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "20": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "21": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "22": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "24": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "25": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "26": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "27": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "28": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "29": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "30": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "31": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "32": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "33": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "34": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "35": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "36": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "37": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "38": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "39": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "40": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "41": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "65": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "4": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "5": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "8": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "10": {
+      "broad": "verification",
+      "specific": "verify_output"
+    }
+  },
+  "67": {
+    "1": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "4": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "5": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "7": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "9": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "10": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "11": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "12": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "14": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "15": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "17": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "18": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "19": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "20": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "21": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "22": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "23": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "24": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "25": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "26": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "27": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "28": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "29": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "30": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "31": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "32": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "33": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "34": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "35": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "36": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "37": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "38": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "39": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "40": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "41": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "42": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "43": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "44": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "45": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "46": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "47": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "48": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "49": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "50": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "51": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "52": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "53": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "54": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "55": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "56": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "57": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "58": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "59": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "60": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "61": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "62": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "63": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "64": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "65": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "66": {
+      "broad": "editing",
+      "specific": "edit_code"
+    }
+  },
+  "68": {
+    "1": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "4": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "7": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "9": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "10": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "11": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "12": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "13": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "14": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "15": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "18": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "20": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "21": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "22": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "23": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "24": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "25": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "26": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "27": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "28": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "29": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "30": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "31": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "32": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "33": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "34": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "35": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "36": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "37": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "38": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "39": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "40": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "41": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "42": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "43": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "44": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "45": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "46": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "47": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "48": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "49": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "50": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "51": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "52": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "53": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "54": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "69": {
+    "1": {
+      "broad": "off_topic",
+      "specific": "greeting"
+    }
+  },
+  "70": {
+    "1": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "2": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "3": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "4": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "5": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "7": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "8": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "9": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "10": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "11": {
+      "broad": "verification",
+      "specific": "verify_code"
+    }
+  },
+  "71": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "4": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "5": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "7": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "8": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "9": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "11": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "12": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "13": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "14": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "16": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "17": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "18": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "20": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "21": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "22": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "23": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "24": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "25": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "26": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "27": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "28": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "29": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "30": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "31": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "32": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    }
+  },
+  "73": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    }
+  },
+  "74": {
+    "1": {
+      "broad": "off_topic",
+      "specific": "greeting"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "3": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "4": {
+      "broad": "off_topic",
+      "specific": "gratitude"
+    },
+    "5": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "6": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "7": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "8": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "9": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "10": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "11": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "12": {
+      "broad": "off_topic",
+      "specific": "gratitude"
+    },
+    "13": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "14": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "16": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "18": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "19": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "20": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "21": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "22": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "24": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "25": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "26": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "27": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "28": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "29": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "30": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "31": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "32": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "33": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "34": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "35": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "36": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "37": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "38": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "39": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "40": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "41": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "42": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "43": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "44": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "45": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "46": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "47": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "48": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "49": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "50": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "51": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "52": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "53": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "54": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "55": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "56": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "57": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "58": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "59": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "60": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "61": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "62": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "63": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "64": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "65": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "66": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "67": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "68": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "69": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "70": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "71": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "72": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "73": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "74": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "75": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "76": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "77": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "78": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "75": {
+    "1": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "4": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "5": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "7": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    }
+  },
+  "76": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "2": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "3": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "4": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "5": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "8": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "9": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "10": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "11": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "12": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "13": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "14": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "16": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "18": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "20": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "21": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "22": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "23": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "24": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "25": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "26": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "27": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "28": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "29": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "30": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "31": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "32": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "33": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "34": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "35": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "36": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "37": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "38": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "39": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "40": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "41": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "42": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "43": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "44": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "45": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "46": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "47": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "48": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "49": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "50": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "51": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "52": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "53": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "54": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "55": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "56": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "57": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "58": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "59": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "60": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "61": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "62": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    }
+  },
+  "78": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "2": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "4": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "5": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "8": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "9": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "10": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "11": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "12": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "13": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "14": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "15": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "16": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "18": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "20": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "21": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "22": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "23": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "24": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "25": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "26": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "27": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "28": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "29": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "30": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "31": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "32": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "33": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "34": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "35": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "36": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "37": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "38": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "39": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "40": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "41": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "42": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "43": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "44": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "79": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "2": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "3": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "4": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "5": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "7": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "8": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "9": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "10": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "11": {
+      "broad": "writing",
+      "specific": "summarize"
+    },
+    "12": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "13": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "14": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "15": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "17": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "20": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "21": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "22": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "24": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "25": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "26": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "27": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "28": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "29": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "30": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "31": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "32": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "33": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "34": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "35": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "36": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "37": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "38": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "39": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "40": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "41": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "42": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "43": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "44": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "45": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "46": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "47": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "48": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "49": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "50": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "51": {
+      "broad": "writing",
+      "specific": "write_code"
+    }
+  },
+  "82": {
+    "1": {
+      "broad": "off_topic",
+      "specific": "greeting"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "4": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "5": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "6": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    }
+  },
+  "83": {
+    "1": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "2": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "3": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "4": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "5": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "6": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "9": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "10": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "11": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "12": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "13": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "14": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "15": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "16": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "18": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "20": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "21": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "22": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "23": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "24": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "25": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "26": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "27": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "28": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "29": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "30": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "31": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "32": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "33": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "34": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "35": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "36": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "37": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "38": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "39": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "40": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "41": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "42": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "43": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "44": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "45": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "46": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "47": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "48": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "49": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "50": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "51": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "52": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "53": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "54": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "55": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "56": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "57": {
+      "broad": "verification",
+      "specific": "verify_output"
+    }
+  },
+  "84": {
+    "1": {
+      "broad": "off_topic",
+      "specific": "greeting"
+    },
+    "2": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "3": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "4": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "5": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "6": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "7": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "9": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "10": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "11": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "12": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "13": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "14": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "15": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "16": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "20": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "21": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "22": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "24": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "25": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "26": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "27": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "28": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "29": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "30": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "31": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "32": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "33": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "34": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "35": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "36": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "37": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "38": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "39": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "40": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "41": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "42": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "43": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "44": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "45": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "46": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "47": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "48": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "49": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "50": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "51": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "52": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "53": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "54": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "55": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "56": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "57": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "58": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "59": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "60": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "61": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "62": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "63": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "64": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "65": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "66": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "67": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "68": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "69": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "70": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "71": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "72": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "73": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "74": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "75": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "76": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "77": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "78": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "79": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "80": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "81": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "82": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "83": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "84": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "85": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "86": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "87": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "88": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "89": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "90": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "91": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "92": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "93": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "94": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "95": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "96": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "97": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "98": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "99": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "100": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "101": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "102": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "103": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "104": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "105": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "106": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "107": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    }
+  },
+  "85": {
+    "1": {
+      "broad": "off_topic",
+      "specific": "greeting"
+    },
+    "2": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "3": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "4": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "5": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "6": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "7": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "8": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "9": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "10": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "11": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "12": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "13": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "14": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "15": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "17": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "18": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "20": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "21": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "22": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "23": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "24": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "25": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "26": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "27": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "28": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "29": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "30": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "31": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "32": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "33": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "34": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "35": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "36": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "37": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "38": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "39": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "40": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "41": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "42": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "43": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "44": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "45": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "46": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "47": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "48": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "49": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "50": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "51": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "52": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "53": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "54": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "55": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "56": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "57": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "58": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "59": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "60": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "61": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "62": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "63": {
+      "broad": "conceptual_questions",
+      "specific": "other_concept"
+    },
+    "64": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "65": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "66": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "67": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "68": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "69": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "70": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "71": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "72": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "73": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "74": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "75": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "76": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "77": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "78": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "79": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "80": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "81": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "82": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "83": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "84": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "85": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "86": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "87": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "88": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "89": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "90": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "91": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "92": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "93": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "94": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "95": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "96": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "97": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "98": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "99": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "100": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "101": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "102": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "103": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "104": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "105": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "106": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "107": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "108": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "109": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "110": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "111": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    }
+  },
+  "86": {
+    "1": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "summarize"
+    },
+    "3": {
+      "broad": "misc",
+      "specific": "misc_other"
+    },
+    "4": {
+      "broad": "off_topic",
+      "specific": "chit_chat"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "6": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "7": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "8": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "9": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "10": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "11": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "12": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "13": {
+      "broad": "verification",
+      "specific": "verify_output"
+    },
+    "14": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "15": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "17": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "18": {
+      "broad": "provide_context",
+      "specific": "assignment_information"
+    },
+    "19": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "20": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "21": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "22": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "23": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "24": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "25": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "26": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "27": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "28": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "29": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "30": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "31": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "32": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "33": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "34": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    },
+    "35": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "36": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "37": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "38": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "39": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "40": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "41": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "42": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    }
+  },
+  "87": {
+    "1": {
+      "broad": "writing",
+      "specific": "write_english"
+    },
+    "2": {
+      "broad": "conceptual_questions",
+      "specific": "computer_science"
+    }
+  },
+  "88": {
+    "1": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    },
+    "2": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "3": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "4": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "5": {
+      "broad": "provide_context",
+      "specific": "error_message"
+    },
+    "6": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "7": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "8": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "9": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "10": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "11": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "12": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "13": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "14": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "15": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "16": {
+      "broad": "provide_context",
+      "specific": "code"
+    },
+    "17": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "18": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "19": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "20": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "21": {
+      "broad": "contextual_questions",
+      "specific": "code_explanation"
+    },
+    "22": {
+      "broad": "verification",
+      "specific": "verify_code"
+    },
+    "23": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "24": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "25": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "26": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "27": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "28": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "29": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "30": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "31": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "32": {
+      "broad": "conceptual_questions",
+      "specific": "programming_language"
+    },
+    "33": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "34": {
+      "broad": "writing",
+      "specific": "write_code"
+    },
+    "35": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "36": {
+      "broad": "conceptual_questions",
+      "specific": "python_library"
+    },
+    "37": {
+      "broad": "contextual_questions",
+      "specific": "interpret_output"
+    },
+    "38": {
+      "broad": "editing",
+      "specific": "edit_code"
+    },
+    "39": {
+      "broad": "provide_context",
+      "specific": "context_other"
+    },
+    "40": {
+      "broad": "conceptual_questions",
+      "specific": "programming_tools"
+    },
+    "41": {
+      "broad": "contextual_questions",
+      "specific": "contextual_other"
+    },
+    "42": {
+      "broad": "contextual_questions",
+      "specific": "assignment_clarification"
+    }
+  }
+}
