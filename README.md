@@ -7,7 +7,7 @@ with majority voting, then analysed for distribution, transitions, and links to 
 ## Structure
 
 ```
-├── Article_Recherche       # Final Article
+├── Paper_Research          # Final Article
 ├── analysis.ipynb          # all analyses and figures
 ├── prompts/                # annotation prompts (in French)
 └── annotation/
